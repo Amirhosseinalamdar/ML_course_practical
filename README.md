@@ -15,3 +15,11 @@ The acc for sklearn ws around 90% and for my model was around 89%.
 for the bonus point, in the first noteboook I implemented LSTM and reached to ***96%*** accuracy.
 
 In the second noteboook I fine tuned the Bert and DistilBert Models from hugging face and reached to ***96%*** accuracy with around 600 hundred less data. (to be exact, I used Bert for a competition and the dataset samples for the computation was different)
+
+
+# Covid19 Sentiment 
+predicting sentiment of twitts during covid19 using BERT, lstm and SVM models.
+BERT reached 89% acc.
+
+# Logistic Regression
+predicting chance of winning or losing in a video game given the game play data. (like kills or potion used or ...)
