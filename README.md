@@ -23,3 +23,6 @@ BERT reached 89% acc.
 
 # Logistic Regression
 predicting chance of winning or losing in a video game given the game play data. (like kills or potion used or ...)
+
+
+**[https://www.kaggle.com/amirholmd]**
