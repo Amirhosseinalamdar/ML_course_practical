@@ -24,5 +24,9 @@ BERT reached 89% acc.
 # Logistic Regression
 predicting chance of winning or losing in a video game given the game play data. (like kills or potion used or ...)
 
+......
+# Project
+It's about sentiment on snappfood and digikala comments. the task is to train a neural net on the snappfood data set using a lot of data. then we should fine tune it on a tiny dataset which is digikala commnets. (Snappfood is iranian door dash and digikala is iranian version of Amazon)
+
 
 **[https://www.kaggle.com/amirholmd]**
